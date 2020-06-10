@@ -12,7 +12,7 @@
 
 <a href="http://somegreatsite.com">Link Name</a>
 
-is a link to another nifty site
+is a link to another site
 
 <H1>This is a Header</H1>
 
